@@ -54,3 +54,5 @@ function solve(name) { // name = 'jami' - ['j', 'a', 'm', 'i', '\r', '\n']
 process.stdin.on('data', function (str) {
     solve(str.toString());
 });
+
+// https://github.com/Md-Hasib-Askari/js-ps/blob/master/module1_problem5.js
